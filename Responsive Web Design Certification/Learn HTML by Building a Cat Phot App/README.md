@@ -2,4 +2,4 @@ HTML tags give a webpage its structure. You can use HTML tags to add photos, but
 
 In this course, you'll learn the most common HTML tags by building your own cat photo app.
 
-# This is the product of the course
+### This is the product of the course
