@@ -28,3 +28,6 @@ body {
 .item p{
 display: inline-block;
 }
+.stablished(
+    font-style: italic;
+)
