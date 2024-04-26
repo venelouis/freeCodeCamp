@@ -9,6 +9,7 @@ background-image: url("https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jp
     padding: 20px;
     background-color: burlywood;
     width: 80%
+    max-width: 500px;
     margin-left: auto;
     margin-right: auto;
 }
