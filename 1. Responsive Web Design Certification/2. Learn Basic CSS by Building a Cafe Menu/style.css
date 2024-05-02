@@ -39,4 +39,5 @@ display: inline-block;
 )
 hr{
     height: 3px;
+    background-color: brown;
 }
