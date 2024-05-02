@@ -33,7 +33,9 @@ body {
     text-align:right;
 }
 .item p{
-display: inline-block;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 .stablished(
     font-style: italic;
