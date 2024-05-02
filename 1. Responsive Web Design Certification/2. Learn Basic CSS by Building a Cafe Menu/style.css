@@ -37,3 +37,6 @@ display: inline-block;
 .stablished(
     font-style: italic;
 )
+hr{
+    height: 3px;
+}
