@@ -25,7 +25,7 @@ these colors produce strong visual contrast and appear brighter.*/
     /* background-color: rgb(255, 255, 0); secondary color (yellow) */
     /* background-color: rgb(255, 127, 0); tertiary 1 (orange) */
     /* background-color: rgb(127, 255, 0); tertiary 2: chartreuse green */
-    background: linear-gradient(180deg, rgb(255, 0, 0) 75%, rgb(0, 255, 0), rgb(0, 0, 255))
+    background: linear-gradient(180deg, rgb(255, 0, 0) 0%, rgb(0, 255, 0)50%, rgb(0, 0, 255)100%)
 }
 
 .green{
