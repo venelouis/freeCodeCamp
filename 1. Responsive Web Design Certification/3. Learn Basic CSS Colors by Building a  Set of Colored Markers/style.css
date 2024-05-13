@@ -41,7 +41,7 @@ these colors produce strong visual contrast and appear brighter.*/
     /* background-color: rgb(255, 0, 255); secondary color (violet) */
     /* background-color: rgb(127, 0, 255); tertiary 1 (purple) */
     /* background-color: rgb(255, 0, 127); tertiary 2: rose */
-    background-color: hsl(240,100%,50%);
+    background: hsl(240,100%,50%);
 }
 
 .container {
