@@ -50,3 +50,8 @@ these colors produce strong visual contrast and appear brighter.*/
     padding-left: 0px;
     padding-right: 0px;
 }
+
+.sleeve{
+    width: 110px;
+    height: 25px;
+}
