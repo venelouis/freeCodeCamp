@@ -61,3 +61,7 @@ these colors produce strong visual contrast and appear brighter.*/
     width: 60px;
     height: 25px;
 }
+
+.cap, .sleeve {
+    display: inline-block;
+}
