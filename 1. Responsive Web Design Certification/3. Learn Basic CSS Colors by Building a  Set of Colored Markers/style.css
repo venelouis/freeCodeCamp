@@ -56,3 +56,8 @@ these colors produce strong visual contrast and appear brighter.*/
     height: 25px;
     background-color: rgba(255, 255, 255, 0.5);
 }
+
+.cap {
+    width: 60px;
+    height: 25px;
+}
