@@ -42,6 +42,7 @@ these colors produce strong visual contrast and appear brighter.*/
     /* background-color: rgb(127, 0, 255); tertiary 1 (purple) */
     /* background-color: rgb(255, 0, 127); tertiary 2: rose */
     background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+}
 
 .container {
     background-color: rgb(255, 255, 255);
@@ -58,7 +59,7 @@ these colors produce strong visual contrast and appear brighter.*/
     /*border-left-width: 10px;
     border-left-style: solid;
     border-left-color: black; */
-    border-left: 10px double black;
+    border-left: 10px double rgba(0, 0, 0, 0.75);
 }
 
 .cap {
