@@ -5,7 +5,7 @@
   <li><a href="2. Learn Basic CSS by Building a Cafe Menu">Learn Basic CSS by Building a Cafe Menu</a></li>
   <li><a href="3. Learn Basic CSS Colors by Building a Set of Colored Markers">Learn Basic CSS Colors by Building a Set of Colored Markers</a></li>
   <li><a href="4. Learn HTML Forms by Building a Registration Form">Learn HTML Forms by Building a Registration Form</a></li>
-  <li><a href="/5. Certification Project: Survey Form"> Certification Project: Survey Form</a></li>
+  <li><a href="../5. Certification Project: Survey Form"> Certification Project: Survey Form</a></li>
 </ol>
 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
