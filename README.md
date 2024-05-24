@@ -7,4 +7,6 @@
 
 <p align="center">My profile in:  https://www.freecodecamp.org/venelouis</p>
 
-See live at: https://venelouis.w3spaces.com or: https://venelouis.de
+See live at: https://venelouis.w3spaces.com 
+
+Or: https://venelouis.de
