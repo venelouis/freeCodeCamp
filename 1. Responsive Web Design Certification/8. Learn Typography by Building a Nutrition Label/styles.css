@@ -44,3 +44,8 @@ p{margin:0;}
 .medium {
     height: 5px;
 }
+
+.right {
+    display: flex;
+    justify-content: flex-end;
+}
