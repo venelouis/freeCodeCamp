@@ -1,9 +1,7 @@
-html{
-    font-size: 16px;
-}
-body{
-    font-family: "Open Sans" , sans-serif;
-}
+html{font-size: 16px;}
+
+body{font-family: "Open Sans" , sans-serif;}
+
 .label{
     border: 2px solid black;
     width: 270px;
@@ -26,9 +24,7 @@ p{margin:0;}
     margin: 2px 0;
 }
 
-.bold{
-    font-weight: 800;
-}
+.bold{font-weight: 800;}
 
 .label .divider.medium {
     border-bottom: 1px solid #888989;
@@ -41,11 +37,16 @@ p{margin:0;}
     margin: -7px -2px;
 }
 
-.medium {
-    height: 5px;
-}
+.medium {height: 5px;}
 
 .right {
     display: flex;
     justify-content: flex-end;
 }
+
+.indent {margin-left: 1em;}
+
+.daily-value p:not(.no-divider) {border-bottom: 1px solid #888989;}
+/* O código acima faz com que todos os parágrafos 
+dentro da classe daily-value que não possuem a classe no-divider 
+tenham uma borda inferior de 1px sólida na cor #888989. */
