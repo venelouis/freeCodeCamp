@@ -50,3 +50,7 @@ p{margin:0;}
 /* O código acima faz com que todos os parágrafos 
 dentro da classe daily-value que não possuem a classe no-divider 
 tenham uma borda inferior de 1px sólida na cor #888989. */
+
+.double-indent {
+    margin-left: 2em;
+}
